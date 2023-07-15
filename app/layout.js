@@ -10,10 +10,10 @@ const inter = Inter({ subsets: ['latin'] })
 
 
 //متا دیتای صفحه 
-export const metadata = {
-  title: 'Pouria Blog',
-  description: 'My Full Stack Blog!',
-}
+// export const metadata = {
+//   title: 'Pouria Blog',
+//   description: 'My Full Stack Blog!',
+// }
 
 
 export default function RootLayout({ children }) {
