@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* * {
+  background-color: #111;
+  color: #bbb;
+} */
+
+ul {
+  list-style: none;
+}
+
