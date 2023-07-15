@@ -3,10 +3,10 @@ import Button from "@/components/Button"
 
 
 //متا دیتای صفحه 
-export const metadata = {
-  title: 'Contact',
-  description: 'My Contact Page!',
-}
+// export const metadata = {
+//   title: 'Contact',
+//   description: 'My Contact Page!',
+// }
 
 
 export default function Page() {

@@ -3,10 +3,10 @@ import Link from "next/link"
 
 
 //متا دیتای صفحه 
-export const metadata = {
-  title: 'Portfolio',
-  description: 'My Portfolio Page!',
-}
+// export const metadata = {
+//   title: 'Portfolio',
+//   description: 'My Portfolio Page!',
+// }
 
 
 export default function Page() {

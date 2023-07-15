@@ -6,10 +6,10 @@ import { useRouter } from "next/navigation";
 
 
 //متا دیتای صفحه 
-export const metadata = {
-  title: 'Dashboard',
-  description: 'My Dashboard Page!',
-}
+// export const metadata = {
+//   title: 'Dashboard',
+//   description: 'My Dashboard Page!',
+// }
 
 
 
